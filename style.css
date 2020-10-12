@@ -1,0 +1,58 @@
+.topbanback{
+    background-color:#fceae8 ;
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.ban-price{
+    color: #ff136f; ;
+}
+.btn-danger{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100% );
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 50px;
+}
+.cat1{
+    background-color: orange;
+    
+    
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: lightseagreen;
+}
+.cat1, .cat2, .cat3{
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card-footer{
+    border-top: none;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 5px lightblue;
+}
+.mail{
+    background-color:#fceae8 ;
+    height: 300px;
+    border-radius: 8px;
+}
+.center{
+    text-align: center;
+}
